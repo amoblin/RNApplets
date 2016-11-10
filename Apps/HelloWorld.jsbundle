@@ -1518,7 +1518,7 @@ marginBottom:5}});
 
 
 
-_reactNative.AppRegistry.registerComponent('AppBrowser',function(){return AppBrowser;});
+_reactNative.AppRegistry.registerComponent('HelloWorld',function(){return AppBrowser;});
 }, "AppBrowser/index.ios.js");
 __d(12 /* react/react.js */, function(global, require, module, exports) {'use strict';
 
